@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(58, 58, 58);
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  transition: all 0.5s ease;
+}
+
+.carousel-control-next-icon:hover {
+  transform: scale(1.5);
+}
+.carousel-control-prev-icon:hover {
+  transform: scale(1.5);
+}
+.bg-custom-footer {
+  background-color: #2b3035;
+}
+.mb-custom {
+  margin-bottom: 10%;
+}
+footer a {
+  color: white;
+  text-decoration: none;
+}
+img {
+  transition: all 0.5s ease;
+}
+img:hover {
+  transform: scale(1.1);
+}
+.carousel-inner {
+  overflow: visible;
+}
+.carousel-control-next {
+  position: absolute;
+  right: -5%;
+  width: 5%;
+}
+.carousel-control-prev {
+  position: absolute;
+  left: -5%;
+  width: 5%;
+}
