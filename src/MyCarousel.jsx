@@ -69,7 +69,6 @@ class MyCarousel extends Component {
   Placeholder = () => {
     const cols = [];
     for (let i = 0; i < 5; i++) {
-      console.log("ciao");
       const col = (
         <Col key={i}>
           <img

@@ -16,8 +16,8 @@ function App() {
         <MyCarousel saga={"Harry Potter"} />
         <TitleSection title={"Star Wars"} />
         <MyCarousel saga={"Star Wars"} />
-        <TitleSection title={"Harry Potter"} />
-        <MyCarousel saga={"Harry Potter"} />
+        <TitleSection title={"Fast"} />
+        <MyCarousel saga={"Fast"} />
       </div>
       <Footer />
     </>
